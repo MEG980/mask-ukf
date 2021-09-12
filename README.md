@@ -1,6 +1,4 @@
-<h1 align="center">
-  MaskUKF
-</h1>
+
 
 <p align="center"><img src="https://github.com/robotology/mask-ukf/blob/master/assets/picture.png" alt=""/></p>
 
